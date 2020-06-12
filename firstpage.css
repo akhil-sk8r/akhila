@@ -1,0 +1,29 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1{
+	position: absolute;
+	font-family:fantasy; 
+	color: white;
+	top:25%;
+	left: 40%;
+	padding: 30px; 
+	border:20px solid white;
+	margin: 20px solid white;
+
+}
+h3{
+	position: absolute;
+	font-family: cursive;
+	color: white;
+	top: 45%;
+	left: 30%;
+	padding: 20px; 
+	border:20px solid white;
+	margin: 20px solid white;
+}
+input{
+	align-content: center;
+}
